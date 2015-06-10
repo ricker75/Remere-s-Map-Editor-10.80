@@ -19,7 +19,15 @@ This Version works with the Tibia.spr and original Tibia.dat version 10.78 and c
 
 * Report all [Here](https://github.com/ricker75/Remere-s-Map-Editor-10.78/issues)
 
-# Testing Otb in RME and Server
+# Changes in Otb old and new Version
+
+*Old Version itemst.otb
+![] (http://i.imgur.com/t6RSKhn.png)
+
+* New Items.otb 10.78
+![](http://i.imgur.com/Z6PvWIm.png)
+
+# Testing Otb in RME and Server 
 
 ![](http://i61.tinypic.com/2emgaxk.jpg)
 
