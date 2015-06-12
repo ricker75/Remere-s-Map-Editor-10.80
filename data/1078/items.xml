@@ -30846,7 +30846,26 @@
 	<item id="23807" name="the lions heart">
 		<attribute key="description" value="The amulet looks like a golden lions head. A hermit in Carlin might tell you more about it." />
 		<attribute key="weight" value="1800" />
-	</item>		
+	</item>
+    <item id="24318" name="maxxen santa">
+	<attribute key="weight" value="650" />
+	</item>
+    	<item id="24319" name="truelove teddy">
+	<attribute key="description" value="It's an item to celebrate Valentine's Day. Like the Heart Backpack, you can only purchase one of these per year from Valentina." />
+	<attribute key="weight" value="590" />
+	</item>
+	<item id="24320" name="crimson rose">
+	<attribute key="description" value="It's an item to celebrate Valentine's Day." />
+	<attribute key="weight" value="080" />
+	</item>
+	<item id="24321" name="sweetheart ring">
+	<attribute key="description" value="It's an item to celebrate Valentine's Day." />
+	<attribute key="weight" value="090" />
+	</item>
+    <item fromid="24328" toid="24329" article="a" name="assassin doll">
+	<attribute key="description" value="Only the real killers can touch me! This item was awarded by TibiaBrasileiros.com." />
+	<attribute key="weight" value="2504" />
+	</item>	
 	<item id="30001" name="water" />
 	<item id="30002" name="blood" />
 	<item id="30003" name="beer" />
