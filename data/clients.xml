@@ -269,13 +269,13 @@
 	<client name="10.76" otb="10.76" default="true" visible="true" data_directory="1076">
 			<otbm version="3"/>
 			<extensions from="8.20 - 8.31" to="10.76"/>
-			<data format="10.57" dat="0x000037DF" spr="0x54F03CE9"/>
+			<data format="10.70" dat="0x000037DF" spr="0x54F03CE9"/>
 		</client>
 		
 		<client name="10.78" otb="10.78" default="true" visible="true" data_directory="1078">
 			<otbm version="3"/>
 			<extensions from="8.20 - 8.31" to="10.78"/>
-			<data format="10.57" dat="0x000039CC" spr="0x554C7373"/>
+			<data format="10.78" dat="0x000039CC" spr="0x554C7373"/>
 		</client>
 	</clients>
 
