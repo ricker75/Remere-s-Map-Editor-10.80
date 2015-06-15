@@ -5,6 +5,9 @@ This Version works with the Tibia.spr and original Tibia.dat version 10.78 and c
 
 [hjnilsson --- Sources RME](https://github.com/hjnilsson/rme)
 
+## Aditional Sources
+#[Kruger Developers](https://github.com/krugerdevelopers/RME)
+
 # Other Applications
 
 * To host your MMORPG game server, you can use [The Forgotten Server](https://github.com/otland/forgottenserver)
