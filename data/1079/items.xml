@@ -30847,10 +30847,29 @@
 		<attribute key="description" value="The amulet looks like a golden lions head. A hermit in Carlin might tell you more about it." />
 		<attribute key="weight" value="1800" />
 	</item>
+	<item id="24219" name="dinky moss floret">
+		<attribute key="weight" value="20" />
+	</item>
+	<item id="24222" name="dinky moss floret garland">
+		<attribute key="weight" value="60" />
+	</item>
+	<item id="24258" name="crest of the deep seas">
+	<attribute key="description" value="It can only be wielded properly by players of level 80 or higher." />
+	<attribute key="weight" value="4500" />
+	<attribute key="slotType" value="head" />
+	<attribute key="speed" value="10" />
+	<attribute key="armor" value="7" />
+	<attribute key="absorbPercentIce" value="5" />
+	<attribute key="showattributes" value="1" />
+	</item>
+	<item id="24116" name="hoard of cursed gold">
+	</item>
+	<item fromid="24280" toid="24297" article="a" name="hoard of cursed gold">
+	</item>	
     <item id="24318" name="maxxen santa">
 	<attribute key="weight" value="650" />
 	</item>
-    	<item id="24319" name="truelove teddy">
+    <item id="24319" name="truelove teddy">
 	<attribute key="description" value="It's an item to celebrate Valentine's Day. Like the Heart Backpack, you can only purchase one of these per year from Valentina." />
 	<attribute key="weight" value="590" />
 	</item>
