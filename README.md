@@ -1,5 +1,7 @@
-# Remere-s-Map-Editor-10.78 - 10.79
-This Version works with the Tibia.spr and original Tibia.dat version 10.79 and contains original items.otb
+# Remere-s-Map-Editor-10.78 - 10.80+++
+This Version works with the Tibia.spr and original Tibia.dat version 10.80 and contains original items.otb
+
+## upcoming changes in code with support real maps and increment items to additional release for version 10.80 or higher
 
 # Special thanks:
 
@@ -27,10 +29,10 @@ This Version works with the Tibia.spr and original Tibia.dat version 10.79 and c
 *Old Version itemst.otb
 ![] (http://i.imgur.com/t6RSKhn.png)
 
-* New Items.otb 10.78 and 10.79
+* New Items.otb 10.78 and 10.80 ++
 ![](http://i.imgur.com/Z6PvWIm.png)
 
-![](http://i.imgur.com/Va9LRGC.png)
+
 
 # Testing Otb in RME and Server 
 
@@ -38,6 +40,8 @@ This Version works with the Tibia.spr and original Tibia.dat version 10.79 and c
 
 ![](http://i57.tinypic.com/ifu2yg.jpg)
 
-## Visit My Thread
+## Visit My Thread and my website for check future release support and more
+
+* [Kruger-Developers](http://kruger.260mb.net/)
 
 *  [BlackTibia.org](http://www.blacktibia.org/t38982-remere-s-map-editor-10-78-10-79)
