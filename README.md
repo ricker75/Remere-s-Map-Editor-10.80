@@ -1,7 +1,7 @@
 # Remere-s-Map-Editor-10.78 - 10.80+++
 This Version works with the Tibia.spr and original Tibia.dat version 10.80 and contains original items.otb
 
-# upcoming changes in code with support real maps and increment items to additional release for version 10.80 or higher
+* upcoming changes in code with support real maps and increment items to additional release for version 10.80 or higher
 
 # Special thanks:
 
