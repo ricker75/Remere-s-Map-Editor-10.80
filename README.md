@@ -29,10 +29,7 @@ This Version works with the Tibia.spr and original Tibia.dat version 10.80 and c
 *Old Version itemst.otb
 ![] (http://i.imgur.com/t6RSKhn.png)
 
-* New Items.otb 10.78 and 10.80 ++
-![](http://i.imgur.com/Z6PvWIm.png)
-
-
+* ADD Support for a real maps.. code base in items old 10.55
 
 # Testing Otb in RME and Server 
 
