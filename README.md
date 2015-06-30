@@ -39,7 +39,15 @@ This Version works with the Tibia.spr and original Tibia.dat version 10.80 and c
 ![](http://i61.tinypic.com/2emgaxk.jpg)
 
 ![](http://i57.tinypic.com/ifu2yg.jpg)
+=======
 
+# Initial Test in version 10.80+
+
+* New Items
+![](http://i.imgur.com/eee4J6g.png)
+
+* New Creatures
+![](http://i.imgur.com/6ZBYjPt.png)
 
 
 =======
