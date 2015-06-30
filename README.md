@@ -40,7 +40,10 @@ This Version works with the Tibia.spr and original Tibia.dat version 10.80 and c
 
 ![](http://i57.tinypic.com/ifu2yg.jpg)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 ## Visit My Thread and my website for check future release support and more
 
 * [Kruger-Developers](http://kruger.260mb.net/)
