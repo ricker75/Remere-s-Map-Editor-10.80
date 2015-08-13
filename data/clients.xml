@@ -71,11 +71,13 @@
 		<otb client="10.30" version="3" id="53"/>
 		<otb client="10.31" version="3" id="54"/>
 		<otb client="10.41" version="3" id="55"/>
+			<!-- RME 3.2 -->
 		<otb client="10.55" version="3" id="56"/>
 		<otb client="10.76" version="3" id="57"/>
 		<otb client="10.78" version="3" id="58"/>
 		<otb client="10.79" version="3" id="59"/>
 		<otb client="10.80" version="3" id="60"/>
+		<otb client="10.81" version="3" id="61"/>
 	</otbs>
 
 	<clients>
@@ -290,6 +292,12 @@
 			<otbm version="3"/>
 			<extensions from="8.20 - 8.31" to="10.80"/>
 			<data format="10.80" dat="0x00003B1A" spr="0x55A8BE2E"/>
+		</client>
+		
+		<client name="10.81" otb="10.81" default="true" visible="true" data_directory="1081">
+			<otbm version="3"/>
+			<extensions from="8.20 - 8.31" to="10.81"/>
+			<data format="10.80" dat="0x00003B74" spr="0x55C49608"/>
 		</client>
 	</clients>
 
