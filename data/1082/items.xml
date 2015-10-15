@@ -31013,6 +31013,14 @@
     <item fromid="24512" toid="24513" article="a" name="Little Adventurer Doll">
 	<attribute key="description" value="This little fellow has faced many dangers. He will follow you anywhere. Awarded by TibiaGuias." />
 	<attribute key="weight" value="2613" />
+	</item>
+    <item fromid="24975" toid="24976" article="a" name="Cateroide's doll">
+	<attribute key="description" value="Fansite item of Cateroide. Created by Meninna Malvada." />
+	<attribute key="weight" value="2613" />
+	</item>	
+	<item fromid="24977" toid="24978" article="a" name="Dark Wizard's Crown">
+	<attribute key="description" value="Fansite item of TibiaMisterios." />
+	<attribute key="weight" value="4513" />
 	</item>	
 	<item id="30001" name="water" />
 	<item id="30002" name="blood" />
