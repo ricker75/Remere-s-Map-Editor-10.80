@@ -30990,7 +30990,11 @@
 	<item id="24141" name="hoard of cursed gold">
 	</item>
 	<item fromid="24305" toid="24322" article="a" name="hoard of cursed gold">
-	</item>	
+	</item>
+    <item fromid="24338" toid="24339" article="a" name="Midnight Panther Doll">
+	<attribute key="description" value="It is said to be a symbol of perseverance and luck. Awarded by TibiaMagazine.com." />
+	<attribute key="weight" value="1700" />
+	</item>		
     <item id="24343" name="maxxen santa">
 	<attribute key="weight" value="650" />
 	</item>
@@ -31014,6 +31018,145 @@
 	<attribute key="description" value="This little fellow has faced many dangers. He will follow you anywhere. Awarded by TibiaGuias." />
 	<attribute key="weight" value="2613" />
 	</item>
+	<!-- Items New by Kruger Developers add support to 10.80 -->
+	<item id="24805" name="Golden Lotus Brooch">
+	<attribute key="weight" value="100" />
+	</item>
+		<item id="24806" name="Peacock Feather Fan">
+	<attribute key="weight" value="200" />
+	</item>
+	<item id="24811" name="Oriental Shoes">
+	<attribute key="weight" value="50" />
+	<attribute key="description" value="It can only be wielded properly by sorcerers and druids of level 80 or higher." />
+	<attribute key="armor" value="2" />
+	<attribute key="slotType" value="feet" />
+	<attribute key="speed" value="30" />
+	</item>
+	<item id="24812" name="Nightmare Teddy">
+	<attribute key="weight" value="590" />
+	</item>
+	<item id="24879" name="Werebadger Claws">
+	<attribute key="weight" value="500" />
+	</item>
+	<item id="24880" name="Werewolf Fang">
+	<attribute key="weight" value="500" />
+	</item>
+	<item id="24881" name="Wereboar Hooves">
+	<attribute key="weight" value="500" />
+	</item>
+	<item id="24882" name="Wereboar Tusk">
+	<attribute key="weight" value="500" />
+	</item>
+	<item id="24883" name="Werebadger Skull">
+	<attribute key="weight" value="500" />
+	</item>
+	<item id="24884" name="Werebear Skull">
+	<attribute key="weight" value="500" />
+	</item>
+	<item id="24885" name="Werebear Fur">
+	<attribute key="weight" value="500" />
+	</item>
+	<item id="24886" name="Vial of Liquid Silver">
+	<attribute key="weight" value="500" />
+	<attribute key="description" value="It shimmers faintly, like the full moon." />
+	</item>
+	<item id="24887" name="Silvered Trap">
+		<attribute key="duration" value="3550" />
+		<attribute key="showduration" value="1" />
+	</item>
+	<item id="24888" name="Werewolf Amulet">
+	<attribute key="weight" value="500" />
+	<attribute key="slotType" value="necklace" />
+	</item>
+	<item id="24889" name="Enchanted Werewolf Amulet">
+	<attribute key="weight" value="500" />
+	<attribute key="absorbPercentPhysical" value="5" />
+	<attribute key="armor" value="2" />
+	<attribute key="slotType" value="necklace" />
+	</item>
+	<item id="24890" article="a" name="Werewolf Helmet">
+	<attribute key="weight" value="2500" />
+	<attribute key="description" value="It can only be wielded properly by players of level 100 or higher." />
+	<attribute key="armor" value="9" />
+	<attribute key="slotType" value="head" />
+	<attribute key="speed" value="30" />
+	</item>
+	<item id="21891" article="a" name="Purple Nightshade">
+    <attribute key="description" value="This rare flower will only bloom in the light of the moon." />
+    </item>
+    <item id="21892" article="a" name="Blooming Purple Nightshade">
+    <attribute key="description" value="This purple nightshade is currently blooming. The light of the full moon shines on its leaves." />
+    </item>
+    <item id="21902" article="a" name="Closed Silvered Trap">
+    <attribute key="weight" value="2200" />
+    <attribute key="description" value="It looks like a common leghold trap, but the jags are coated in silver. The trap is closed and safe." />
+    </item>
+	<item id="24904" article="a" name="Strangely Glowing Mark (Green)">
+	</item>	
+	<item id="24905" article="a" name="Strangely Glowing Mark (Blue)">
+	</item>
+	<item id="21910" article="a" name="Purple Nightshade Blossoms">
+    <attribute key="weight" value="200" />
+    </item>
+    	<item id="24912" name="Wolf Backpack">
+	<attribute key="weight" value="1800" />
+	<attribute key="containerSize" value="20" />
+	<attribute key="slotType" value="backpack" />
+	</item>
+	<item id="24913" name="Fur Armor">
+	<attribute key="weight" value="1800" />
+	<attribute key="description" value="It can only be wielded properly by players of level 50 or higher." />
+	<attribute key="slotType" value="body" />
+	<attribute key="armor" value="11" />
+	<attribute key="absorbPercentEarth" value="10" />
+	<attribute key="absorbPercentIce" value="10" />
+	</item>
+	<item id="24914" name="Badger Boots">
+	<attribute key="weight" value="1200" />
+	<attribute key="description" value="It can only be wielded properly by players of level 60 or higher." />
+	<attribute key="slotType" value="feet" />
+	<attribute key="armor" value="2" />
+	<attribute key="speed" value="10" />
+	</item>
+	<item id="24915" name="Wereboar Loincloth">
+	<attribute key="weight" value="1800" />
+	<attribute key="description" value="They offer little protection but will at least provide some comfort and warmth." />
+	<attribute key="armor" value="6" />
+	<attribute key="slotType" value="legs" />
+	</item>
+	<item id="24916" name="Enchanted Werewolf Helmet">
+	<attribute key="weight" value="2500" />
+	<attribute key="description" value="It can only be wielded properly by players of level 100 or higher." />
+	<attribute key="slotType" value="head" />
+	</item>
+	<item fromid="24921" toid="24922" article="a" name="Werebadger Trophy">
+    </item>
+    <item fromid="24923" toid="24924" article="a" name="Wereboar Trophy">
+    </item>
+    <item fromid="24925" toid="24926" article="a" name="Werebear Trophy">
+    </item>
+    <item fromid="24927" toid="24928" article="a" name="Trophy of Feroxa">
+    </item>
+	<item id="24929" article="a" name="Werebadger Trophy">
+		<attribute key="weight" value="500" />
+	</item>
+	<item id="24930" article="a" name="Wereboar Trophy">
+		<attribute key="weight" value="500" />
+	</item>
+    <item id="24931" article="a" name="Werebear Trophy">
+		<attribute key="weight" value="500" />
+	</item>
+    <item id="24932" article="a" name="Trophy of Feroxa ">
+		<attribute key="weight" value="500" />
+	</item>
+	
+    <item id="24934" article="a" name="Adventurer's Map">
+		<attribute key="weight" value="240" />
+		<attribute key="description" value="This map shows various locations of Tibia above and below sea level." />
+	</item>
+    <item id="24944" name="Tibia Coins">
+	<attribute key="description" value="Tibia Coins are needed to shop exclusive products in the Store, including fabulous mounts, classy outfits, a Name Change or even Premium Time." />
+	</item>
     <item fromid="24975" toid="24976" article="a" name="Cateroide's doll">
 	<attribute key="description" value="Fansite item of Cateroide. Created by Meninna Malvada." />
 	<attribute key="weight" value="2613" />
@@ -31021,6 +31164,8 @@
 	<item fromid="24977" toid="24978" article="a" name="Dark Wizard's Crown">
 	<attribute key="description" value="Fansite item of TibiaMisterios." />
 	<attribute key="weight" value="4513" />
+	</item>
+		<item id="25934" article="an" name="arena banner"> 	<!-- Items New by Kruger Developers add support to 10.90 -->
 	</item>	
 	<item id="30001" name="water" />
 	<item id="30002" name="blood" />
